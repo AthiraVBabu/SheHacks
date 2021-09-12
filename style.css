@@ -1,8 +1,6 @@
 body{
     margin:0px;
-    font-family: sans-serif;
-    
-    
+    font-family: sans-serif;   
 }
 
 #heading{
@@ -46,10 +44,5 @@ body{
     background-color:lightgray;
     padding-bottom: 5px;
 }
- #my-image{
-    height: 12rem;
-    width: 12rem;
-    margin: auto;
-    margin-top:-17vh;
-}
+ 
 
