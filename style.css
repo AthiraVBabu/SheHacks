@@ -1,0 +1,55 @@
+body{
+    margin:0px;
+    font-family: sans-serif;
+    
+    
+}
+
+#heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    /* text-decoration: underline; */
+    background-color: rgb(103, 243, 236);
+    padding-bottom: 10px;
+    
+    
+}
+.text-center{
+    text-align: center;
+}
+.para1{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    margin: auto;
+    background-color: linen;
+    padding-bottom: 5px;
+    
+    
+}
+.para2{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    margin: auto;
+    background-color:lemonchiffon;
+    padding-bottom: 5px;
+    
+}
+.para3{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    margin: auto;
+    background-color:lightgray;
+    padding-bottom: 5px;
+}
+ #my-image{
+    height: 12rem;
+    width: 12rem;
+    margin: auto;
+    margin-top:-17vh;
+}
+
